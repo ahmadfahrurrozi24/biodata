@@ -1,6 +1,11 @@
+
 body {
-    font-family: 'Helvetica', sans-serif;
-    background-color: #f4f4f4;
+  background-image: url("swh.jpg");
+  background-size: cover;
+  background-position: center;
+  /* background: no-repeat; */
+  font-family: 'Helvetica', sans-serif;
+    /* background-color: #f4f4f4; */
     margin: 0;
     padding: 0;
     display: flex;
